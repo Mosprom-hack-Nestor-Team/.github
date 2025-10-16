@@ -1,12 +1,5 @@
-## Hi there 👋
+# Веб-приложение — универсальный конструктор таблиц
 
-<!--
+**Во многих компаниях до сих пор используют Excel-файлы для совместной работы, что ведет к потерям данных, конфликтам версий и несогласованности информации.**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Участникам предлагается разработать веб-приложение, которое превращает такие файлы в полноценную базу данных с веб-интерфейсом. Приложение должно позволять создавать шаблоны таблиц, загружать в них данные из Excel и удобно работать с ними.**
